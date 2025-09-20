@@ -1,4 +1,4 @@
-# WMS Demo – Pallet/Box/Folder Index (Flask + Postgres)
+# INDEXFLOW Demo Pallet/Box/Folder Index (Flask + Postgres)
 
 A minimal, **presentable** demo of a warehouse indexing system for **pallet → box → folder/paper** with location hierarchy (**warehouse → shelf → pallet slot**), statuses, audit logs, and barcode/QR support.
 
